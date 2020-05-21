@@ -1,6 +1,6 @@
 # Journal Classifier
 This is the term project of Fall 2019 Stevens Institute Of Technology BIA660 - Web Mining
-<br><br>
+<br>
 ### Setup  
 <ol>
 <li>Install Anaconda Navigator and launch Spyder </li>
