@@ -19,6 +19,6 @@ This is the term project of Fall 2019 Stevens Institute Of Technology BIA660 - W
 </ol>
 
 ### Group Members:
-Hao-Ping Lin
-Wei-Hsuan Wong
+Hao-Ping Lin<br>
+Wei-Hsuan Wong<br>
 Shih-Hao Lo
