@@ -17,3 +17,8 @@ This is the term project of Fall 2019 Stevens Institute Of Technology BIA660 - W
 <li>Wait for around "30~60" minutes to let the file train and predict the result.</li>
 <li>The final prediction and accuracy rate will be shown in console log.</li>
 </ol>
+
+### Group Members:
+Hao-Ping Lin
+Wei-Hsuan Wong
+Shih-Hao Lo
