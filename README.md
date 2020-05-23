@@ -1,7 +1,7 @@
-# Journal Classifier
+## Journal Classifier
 This is the term project of Fall 2019 Stevens Institute Of Technology BIA660 - Web Mining
 <br>
-## Setup  
+### Setup  
 <ol>
 <li>Install Anaconda Navigator and launch Spyder </li>
 <li>Install XGBoost package
@@ -18,7 +18,7 @@ This is the term project of Fall 2019 Stevens Institute Of Technology BIA660 - W
 <li>The final prediction and accuracy rate will be shown in console log.</li>
 </ol>
 
-## Group Members:
+### Group Members:
 Hao-Ping Lin<br>
 Wei-Hsuan Wong<br>
 Shih-Hao Lo
